@@ -19,6 +19,7 @@
     
     NSLog(@"今天星期一");
     
+    NSLog(@"今天星期一");
     
     // Do any additional setup after loading the view, typically from a nib.
 }
