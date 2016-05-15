@@ -23,6 +23,10 @@
     
     NSLog(@"今天中午吃什么");
     
+    
+    NSLog(@"中航没我帅");
+    
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
